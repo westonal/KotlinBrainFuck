@@ -1,4 +1,4 @@
-Code for the article [Advanced Kotlin syntax abuse](https://medium.com/@_west_on/advanced-kotlin-syntax-abuse-b9f5e46230e4)
+Code for the article [Advanced Kotlin syntax abuse](https://dev.to/westonal/advanced-kotlin-syntax-abuse-3613)
 
 ```kotlin
 
@@ -20,3 +20,5 @@ Code for the article [Advanced Kotlin syntax abuse](https://medium.com/@_west_on
                                         )()}
 
 ```
+
+Originally posted on [medium,com](https://medium.com/@_west_on/advanced-kotlin-syntax-abuse-b9f5e46230e4)
